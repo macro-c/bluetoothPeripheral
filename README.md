@@ -1,2 +1,2 @@
 # bluetoothPeripheral
-外设端蓝牙
+尝试 外设和中心放在一个设备上
